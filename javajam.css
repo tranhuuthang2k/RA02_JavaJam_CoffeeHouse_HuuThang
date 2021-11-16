@@ -268,3 +268,7 @@ table th {
 table tr:nth-child(2n + 1) {
   background-color: #d2b48e;
 }
+audio {
+  display: block;
+  margin-top: 1em;
+}
